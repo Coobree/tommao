@@ -1,0 +1,31 @@
+{
+  "name": "nodeboke",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "bootstrap": "^3.3.7",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "moment": "^2.23.0",
+    "mysql": "^2.16.0",
+    "query": "^0.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coobree/tom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Coobree/tom/issues"
+  },
+  "homepage": "https://github.com/Coobree/tom#readme",
+  "description": ""
+}
